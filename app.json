@@ -3,7 +3,7 @@
     "name": "imhere",
     "slug": "imhere",
     "version": "1.0.0",
-    "orientation": "adaptive",//portrait
+    "orientation": "adaptive",//portrait, adaptive
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
